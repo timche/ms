@@ -1,8 +1,8 @@
 {
-  "name": "ms",
-  "version": "3.0.0-canary.1",
+  "name": "@timche/ms",
+  "version": "3.0.0",
   "description": "Tiny millisecond conversion utility",
-  "repository": "vercel/ms",
+  "repository": "timche/ms",
   "main": "./dist/index.cjs",
   "type": "module",
   "exports": {
